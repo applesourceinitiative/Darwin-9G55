@@ -1,1 +1,1 @@
-<img src="Mac-OS-X-Leopard.jpg" 
+<img src="Mac-OS-X-Leopard.jpg">
